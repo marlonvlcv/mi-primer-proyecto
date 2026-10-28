@@ -6,3 +6,4 @@ b = float(input("Ingresa el segundo número: "))
 
 print("El resultado de la suma es:", a + b)
 print("Prueba finalizada correctamente.")
+print("Actualizacion de prueba desde Git")
